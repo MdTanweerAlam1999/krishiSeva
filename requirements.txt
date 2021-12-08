@@ -80,6 +80,9 @@ sklearn==0.0
 terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
+torch==1.10.0
+torchaudio==0.10.0
+torchvision==0.11.1
 toml==0.10.2
 tornado==6.1
 traitlets==5.0.5
